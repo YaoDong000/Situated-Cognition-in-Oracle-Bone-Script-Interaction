@@ -1,11 +1,78 @@
 # Oracle Bone Inscription Interactive Video System
-> Based on Situated Cognition Theory | 基于情境认知理论的甲骨文交互视频系统
-
-[English](#-english) | [中文说明](#-中文说明)
+> **An Interactive Cultural Heritage Platform Based on Situated Cognition Theory**
 
 ---
 
-## 🌐 English
+<p align="center">
+  <b>Interactive Digital Humanities & Media Art Project</b><br>
+  <i>Bridging Ancient Epigraphy with Contemporary Interactive Engine Technologies</i>
+</p>
+
+---
+
+## 📖 Introduction
+
+**Oracle Bone Inscriptions (OBI)** represent the foundational origin of Chinese orthography and the structural bedrock of traditional Chinese culture. As a unique symbolic system, OBI encapsulates rich emotional imagery, ritual significance, and early cultural consciousness. Tracing written history back over three millennia, these inscriptions reflect the social structures, spiritual beliefs, and aesthetic origins of the Shang Dynasty.
+
+In the era of modern digital media, this project leverages **Situated Cognition Theory** to construct an interactive video system for Oracle Bone culture. By synthesizing digital art, game engine architecture, and interaction design, the project transforms ancient glyphs into an accessible, open, and immersive aesthetic experience—enabling users to learn OBI and engage with cultural heritage within a contextualized, situated environment.
+
+---
+
+## ✨ Key Features
+
+* **Situated Learning & Experience**  
+  Integrates Oracle Bone characters into authentic historical and narrative contexts, allowing users to intuitively grasp character evolution and semantic development.
+* **Structured Level & Narrative Design**  
+  Extracts core cultural themes from Shang Dynasty history and original divination records to construct modular, goal-oriented interactive levels.
+* **Pictograph Reconstruction & Animation**  
+  Selects iconic pictographic glyphs, redesigns their color palettes and visual aesthetics, and constructs dynamic character animations and environments.
+* **Interactive UI & Logic Architecture**  
+  Implements custom UI workflows and high-performance branching video interaction logic optimized for seamless user engagement.
+
+---
+
+## 🛠️ System Workflow
+
+```mermaid
+flowchart LR
+    A[History & Inscriptions Research] --> B[Situated Cognition Topics] --> C[Level & Interaction Design]
+    C --> D[Pictograph Color & Redesign]
+    D --> E[Scene & Animation Build] --> F[Unity Engine Integration]
+
+
+## 💻 Tech Stack & Framework
+
+| Component | Specifications & Tools |
+| :--- | :--- |
+| **Game Engine** | Unity `6000.6.6f1` |
+| **Interaction Paradigm** | Interactive Branching Video / Node-based Interaction |
+| **Theoretical Framework** | Situated Cognition Theory (*Learning in Context*) |
+
+---
+
+## 🎬 Showcase & Demonstration
+
+* **Video Walkthrough:** [Bilibili Video Showcase](https://www.bilibili.com/video/BV17z4y197GT/)
+
+---
+
+## 💡 Project Significance
+
+By seamlessly integrating interactive video systems with ancient Oracle Bone culture, this project presents an innovative methodology for the preservation, digital curation, and creative transformation of traditional cultural heritage in the digital age.
+
+---
+
+
+
+
+
+
+
+# Oracle Bone Inscription Interactive Video System
+> Based on Situated Cognition Theory
+
+---
+
 
 1.Introduction
 
@@ -55,51 +122,6 @@ By seamlessly integrating interactive video technology with ancient Oracle Bone 
 
 ---
 
-## 🇨🇳 中文说明
-
-1.项目简介
-
-甲骨文是汉字的源头，也是中华优秀传统文化的根脉。作为一种符号，它不仅能够传递情感意象，更凝练着深刻的文化意识。从发现、发掘到学术研究，甲骨文将中国有文字记载的历史向前推进了千年，展现了约 3000 年前商代社会生活的全貌、中华精神与原始信仰的源起，并呈现出早期中国艺术美学的萌芽。
-
-在数字媒体技术飞速发展的今天，本项目基于情境认知理论（Situational Cognition Theory），探讨甲骨文交互视频的呈现模式。通过艺术与数字技术的结合，将甲骨文这一承载民族文化基因的独特符号，以生动、开放的形式进行数字化活化与传播。
-
-2.核心特色
-
-情境化教学与体验：将甲骨文符号深度融入特定历史场景中，让用户在情境中认知甲骨文、体验甲骨文文化。
-
-关卡与剧本设计：参考殷商历史与原始甲骨卜辞，精炼出多个文化主题，完成富有逻辑与趣味性的关卡设计。
-
-象形字再造与动效：遴选典型甲骨文象形字，重新进行色彩绘制与角色造型塑造，打造生动的场景与动画。
-
-互动界面与逻辑：根据功能需求定制 UI 交互流程，实现无缝的视频互动逻辑与沉浸式体验。
-
-3.设计与开发流程
-
-[殷商历史 & 卜辞研究] ➔ [情境认知主题提炼] ➔ [关卡与交互设计]
-                                                  │
-                                                  ▼
-[甲骨文象形字重绘] ➔ [角色 & 场景动画制作] ➔ [Unity 引擎集成与功能实现]
-
-
-4.技术栈与环境要求
-
-引擎版本：Unity 6000.6.6f1
-
-交互形式：分支剧情 / 节点交互式视频
-
-核心理论：情境认知理论
-
-5.演示视频
-
-你可以通过以下链接查看项目的实际演示效果与视频讲解：
-
-Bilibili 视频展示地址：https://www.bilibili.com/video/BV17z4y197GT/
-
-6.项目意义
-
-结合互动视频与甲骨文文化，本项目旨在探索数字时代下传统文化的保护、传承与创新传播路径，让古老的象形文字在沉浸式体验中重焕新生。
-
----
 
 <img width="72" height="75" alt="image" src="https://github.com/user-attachments/assets/037f511c-138c-421a-a396-616b795a85f2" />
 
@@ -120,4 +142,27 @@ Interaction method
 <img width="276" height="352" alt="image" src="https://github.com/user-attachments/assets/7abd6e84-f7f8-401e-b631-1443cf3c8033" />
 
 5 Interaction Modules
+
+<div align="center">
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/26ba4dd1-9c1b-4db7-9bc1-62bd74164522" width="380" alt="Demo 1"><br/>
+    </td>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/385bc02b-83b7-4095-aab2-875ae34f6b3d" width="380" alt="Demo 2"><br/>    
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/cbbcf5ef-7509-4113-8570-b602081b4f1a" width="380" alt="Demo 3"><br/>     
+    </td>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/9b725e77-d3e2-4020-9dbb-8f48319c27a7" width="380" alt="Demo 4"><br/> 
+    </td>
+  </tr>
+</table>
+
+</div>
 
